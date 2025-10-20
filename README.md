@@ -20,7 +20,7 @@ Permite cadastrar, listar, atualizar e remover livros de forma prática, usando 
 - **Java** (POO, Scanner, JDBC)  
 - **MySQL** (banco de dados relacional)  
 - **JDBC** (Java Database Connectivity)  
-- IDE: **IntelliJ IDEA** ou **VS Code**  
+- IDE: **IntelliJ IDEA**
 
 ---
 
